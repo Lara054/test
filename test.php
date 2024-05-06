@@ -7,5 +7,6 @@
 </head>
 <body>
     おおお
+    <?php echo "よろしく"; ?>
 </body>
 </html>
